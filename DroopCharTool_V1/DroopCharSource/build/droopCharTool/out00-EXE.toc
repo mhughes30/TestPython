@@ -1,0 +1,9 @@
+('C:\\Dropbox\\CUSTOMER_ENGINEERING\\DroopCharTool_V1\\DroopCharSource\\dist\\droopCharTool.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 1428697285)

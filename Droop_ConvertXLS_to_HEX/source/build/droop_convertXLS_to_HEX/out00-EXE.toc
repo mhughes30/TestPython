@@ -1,0 +1,9 @@
+('C:\\Dropbox\\CUSTOMER_ENGINEERING\\Droop_ConvertXLS_to_HEX\\source\\dist\\droop_convertXLS_to_HEX.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 1429220811)

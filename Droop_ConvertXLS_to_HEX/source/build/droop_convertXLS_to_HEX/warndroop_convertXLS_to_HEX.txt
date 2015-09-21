@@ -1,0 +1,32 @@
+no module named posix - imported by os, pyi_os_path, C:\Users\mihughes\Desktop\Python\pyinstaller-python3\PyInstaller\loader\pyi_os_path.py
+no module named os.path - imported by pkgutil, shutil, py_compile, unittest.util, os, sysconfig, C:\Users\mihughes\Desktop\Python\pyinstaller-python3\PyInstaller\loader\pyi_carchive.py
+no module named  - imported by C:\Users\mihughes\Desktop\Python\pyinstaller-python3\PyInstaller\loader\pyi_carchive.py
+no module named .pyi_archive - imported by 
+no module named _frozen_importlib - imported by importlib, pyi_archive, pyi_importers, C:\Users\mihughes\Desktop\Python\pyinstaller-python3\PyInstaller\loader\pyi_importers.py, C:\Users\mihughes\Desktop\Python\pyinstaller-python3\PyInstaller\loader\pyi_archive.py
+no module named _dummy_threading - imported by dummy_threading
+no module named org - imported by copy, org.python
+no module named org.PyStringMap - imported by org
+no module named usercustomize - imported by site
+no module named sitecustomize - imported by site
+no module named __main__ - imported by bdb, pdb, rlcompleter
+no module named readline - imported by cmd, code, pdb, site, rlcompleter
+no module named grp - imported by tarfile, shutil
+no module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, getpass
+no module named _sysconfigdata - imported by sysconfig
+no module named _posixsubprocess - imported by subprocess
+no module named termios - imported by tty, getpass
+no module named vms_lib - imported by platform
+no module named java.lang - imported by platform, xml.sax._exceptions
+no module named java - imported by platform, java.lang
+no module named java.System - imported by java
+no module named _scproxy - imported by urllib.request
+no module named org.python - imported by xml.sax
+no module named org.python.imp - imported by org.python
+no module named collections.ChainMap - imported by collections
+no module named collections.OrderedDict - imported by collections
+no module named collections.namedtuple - imported by collections
+no module named ce - imported by os
+no module named elementtree - imported by xlrd.xlsx
+no module named lxml - imported by xlrd.xlsx
+no module named cElementTree - imported by xlrd.xlsx
+no module named cStringIO - imported by xlrd.timemachine
